@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+
+}
+
+
+body h1 {
+    text-align: center;
+    color: orangered;
+}
+
+button {
+    font-size: xx-large;
+    text-align: center;
+    width: 40px;
+    align-items: center;
+    margin-top: 5px;
+    justify-content: center;
+    border: 3px solid orangered;
+    border-radius: 9px;
+    cursor: pointer;
+
+
+}
+
+container {
+    align-items: center;
+}
+
+.row input {
+    height: 3rem;
+    margin-left: 40%;
+    border: 3px solid orangered;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 13px;
+
+}
+
+.row1 {
+    margin-left: 40%;
+
+}
+
+.row2 {
+    margin-left: 40%;
+}
+
+.row3 {
+    margin-left: 40%;
+}
+
+.row4 {
+    margin-left: 40%;
+
+}
+
+.row5{
+    margin-left: 40%;
+
+}
